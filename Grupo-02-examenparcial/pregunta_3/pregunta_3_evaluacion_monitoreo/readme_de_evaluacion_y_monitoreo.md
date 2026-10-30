@@ -24,7 +24,7 @@ El notebook ejecutado con todas las salidas, tablas y métricas procesadas se gu
 
        Ruta: en el directorio actual del proyecto
 
-       Nombre de archivo: pregunta3_eval.nbconvert.ipynb,  Deberá cargar el archivo en por ejemplo jupyter, donde visualizará el código y las salidas de la ejecución
+       Nombre de archivo: pregunta3_eval_resultado.ipynb,  Deberá cargar el archivo en por ejemplo jupyter, donde visualizará el código y las salidas de la ejecución
 
 ### ¿Qué hace este comando?
 1. **`pip install -r requirements_de_evaluacion.txt`**: Instala de forma automatizada todas las librerías necesarias en tu entorno virtual o local.
