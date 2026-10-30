@@ -16,7 +16,8 @@ OBSERVACIÓN: EN WINDOWS EJECUTAR EN ANACONDA PROMPT
 
 Para cumplir con la rúbrica de ejecución end-to-end automatizada sin requerir la hora de reentrenamiento, abre tu terminal en esta ruta (`pregunta_3/pregunta_3_evaluacion_monitoreo`) y ejecuta la siguiente instrucción integrada:
 
-       python -m pip install -r requirements_de_evaluacion.txt && python -m jupyter nbconvert --to notebook --execute --inplace pregunta3_eval.ipynb
+       
+       python -m pip install -r requirements_de_evaluacion.txt && python -m jupyter nbconvert --to notebook --execute pregunta3_eval.ipynb --output pregunta3_eval_resultado.ipynb
 
 
 El notebook ejecutado con todas las salidas, tablas y métricas procesadas se guardará automáticamente en:
